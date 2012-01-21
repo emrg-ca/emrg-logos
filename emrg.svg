@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -12,7 +13,7 @@
    height="270.15933"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.47 r22583"
    version="1.0"
    sodipodi:docname="emrg.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -53,7 +54,7 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7761395"
+     inkscape:zoom="2.6539894"
      inkscape:cx="201.89384"
      inkscape:cy="135.07967"
      inkscape:document-units="in"
@@ -61,10 +62,11 @@
      showgrid="false"
      borderlayer="true"
      units="in"
-     inkscape:window-width="1400"
-     inkscape:window-height="975"
+     inkscape:window-width="1392"
+     inkscape:window-height="972"
      inkscape:window-x="0"
-     inkscape:window-y="25" />
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -73,6 +75,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Tyler Tidman VA3DGN</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -149,7 +157,7 @@
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          transform="matrix(1.1707317,0,0,1.0734463,-15.529083,-64.913321)"
-         d="M 188.11728,209.77602 A 10.584824,15.23182 0 1 1 166.94763,209.77602 A 10.584824,15.23182 0 1 1 188.11728,209.77602 z"
+         d="m 188.11728,209.77602 c 0,8.4123 -4.73899,15.23182 -10.58482,15.23182 -5.84584,0 -10.58483,-6.81952 -10.58483,-15.23182 0,-8.41231 4.73899,-15.23182 10.58483,-15.23182 5.84583,0 10.58482,6.81951 10.58482,15.23182 z"
          sodipodi:ry="15.23182"
          sodipodi:rx="10.584824"
          sodipodi:cy="209.77602"
@@ -165,7 +173,7 @@
          sodipodi:cy="209.77602"
          sodipodi:rx="10.584824"
          sodipodi:ry="15.23182"
-         d="M 188.11728,209.77602 A 10.584824,15.23182 0 1 1 166.94763,209.77602 A 10.584824,15.23182 0 1 1 188.11728,209.77602 z"
+         d="m 188.11728,209.77602 c 0,8.4123 -4.73899,15.23182 -10.58482,15.23182 -5.84584,0 -10.58483,-6.81952 -10.58483,-15.23182 0,-8.41231 4.73899,-15.23182 10.58483,-15.23182 5.84583,0 10.58482,6.81951 10.58482,15.23182 z"
          transform="matrix(1.1707317,0,0,1.0734463,18.311444,-65.085432)" />
       <path
          sodipodi:type="arc"
@@ -175,7 +183,7 @@
          sodipodi:cy="209.77602"
          sodipodi:rx="10.584824"
          sodipodi:ry="15.23182"
-         d="M 188.11728,209.77602 A 10.584824,15.23182 0 1 1 166.94763,209.77602 A 10.584824,15.23182 0 1 1 188.11728,209.77602 z"
+         d="m 188.11728,209.77602 c 0,8.4123 -4.73899,15.23182 -10.58482,15.23182 -5.84584,0 -10.58483,-6.81952 -10.58483,-15.23182 0,-8.41231 4.73899,-15.23182 10.58483,-15.23182 5.84583,0 10.58482,6.81951 10.58482,15.23182 z"
          transform="matrix(0,1.5834263,-1.0734463,0,417.49322,103.15895)" />
       <path
          id="path3375"
