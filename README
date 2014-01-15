@@ -14,7 +14,6 @@ Type "make" to magically generate bitmap versions from the source vector .svg
 files.
 
 References:
-[1]http://github.com/tylert/emrg_logos
 [2]http://w3.org/Graphics/SVG
 [3]http://libpng.org/pub/png
 [4]http://dejavu-fonts.org
